@@ -1,0 +1,18 @@
+[96m[00:49:31] [INFO] --- PHASE 1: FILE SYSTEM AUDIT ---[0m
+[92m[00:49:31] [INFO] Found LCD Controller (Pad): C:\Python32\ePadInkCtrl.ocx[0m
+[93m[00:49:31] [WARN] MISSING (Optional) Signature Capture (eSign3) at C:\Python32\esW25COM.ocx[0m
+[92m[00:49:31] [INFO] Found Runtime: msvcr80.dll[0m
+[92m[00:49:31] [INFO] Found Runtime: msvcr90.dll[0m
+[96m[00:49:31] [INFO] --- PHASE 2: REGISTRATION & CONNECTION ---[0m
+[96m[00:49:31] [INFO] Registering ePadInkCtrl.ocx...[0m
+[92m[00:49:31] [INFO]   -> Registration Successful[0m
+[96m[00:49:31] [INFO] Scanning Registry for: ePadInkCtrl.ocx...[0m
+[92m[00:49:31] [INFO]   -> Match found! CLSID: {153F3497-03A4-4DAB-B2BB-FAB40DB66FFC}[0m
+[92m[00:49:31] [SUCCESS]   -> RESOLVED PROGID: EPadInkCtrl.Pad.1[0m
+[96m[00:49:31] [INFO] Attempting to load COM Object: 'EPadInkCtrl.Pad.1'[0m
+[92m[00:49:31] [SUCCESS] SUCCESS! Connected to EPadInkCtrl.Pad.1[0m
+[96m[00:49:31] [INFO] --- PHASE 3: WAKE PROTOCOL ---[0m
+[0m[00:49:31] [INFO] Sending OpenConnection()...[0m
+[92m[00:49:31] [INFO]   -> Result: 1[0m
+[0m[00:49:31] [INFO] Setting Light ON...[0m
+[92m[00:49:31] [INFO] Device should be active now.[0m
